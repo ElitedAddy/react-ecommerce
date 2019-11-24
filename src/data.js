@@ -2,7 +2,7 @@ export const storeProducts = [
     {
       id: 1,
       title: "Google Pixel - Black",
-      img: "img/product-1.png",
+      img: "https://res.cloudinary.com/eliteaddy/image/upload/v1566842821/postlyst/l774eoymyrfxgj9y8hnv.png",
       price: 10,
       company: "GOOGLE",
       info:
@@ -14,7 +14,7 @@ export const storeProducts = [
     {
       id: 2,
       title: "Samsung S7",
-      img: "img/product-2.png",
+      img: "https://res.cloudinary.com/eliteaddy/image/upload/v1565531276/postlyst/ip3ccxyopzfmnmnc0s4h.jpg",
       price: 16,
       company: "SAMSUNG",
       info:
